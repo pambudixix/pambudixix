@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Ivan, well actually I'm a designer, but have an expericene on apps development, especially in front-end side.
 
 <!--
 **pambudixix/pambudixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
